@@ -1,8 +1,8 @@
 ### Arduino Uno & Nano Based Scientific Calculator
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Generic badge](https://img.shields.io/badge/Made by -Nasir Ali-<COLOR>.svg)](https://github.com/nasirxo/)
 
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
+
+
 
 ### Circuit Diagram
 
