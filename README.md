@@ -1,9 +1,15 @@
 ### Arduino Uno & Nano Based Scientific Calculator
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Generic badge](https://img.shields.io/badge/Made by -Nasir Ali-<COLOR>.svg)](https://github.com/nasirxo/)
 
+![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
 
 ### Circuit Diagram
 
 <p align="center"><img src="https://raw.githubusercontent.com/nasirxo/scientific-calculator/main/Circuit%20Diagram.PNG" /></p>
+
+### Project Image
+<p align="center"><img src="https://raw.githubusercontent.com/nasirxo/scientific-calculator/main/Calculator%20Image.PNG" /></p>
 
 ### Features
 1) Can Generate tables
@@ -18,6 +24,7 @@
 10) Math Game
 
 ## License
+[![Scientific Calculator license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 This Project is under the [MIT License](http://http//opensource.org/licenses/mit-license.php). See LICENSE for the full details.
 
 
